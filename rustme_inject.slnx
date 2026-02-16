@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="rustme_inject.vcxproj" Id="6510f613-1751-4a9c-966a-dd06162a13f5" />
+</Solution>
